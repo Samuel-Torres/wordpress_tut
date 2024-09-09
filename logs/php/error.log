@@ -1,0 +1,84 @@
+[29-Aug-2024 19:03:33 UTC] Cron reschedule event error for hook: wp_version_check, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[29-Aug-2024 22:22:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable or "${" or "{$" in /Users/rilla/Local Sites/fictional-university/app/public/experiment.php on line 4
+[29-Aug-2024 23:49:12 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 4
+[29-Aug-2024 23:49:35 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 4
+[29-Aug-2024 23:51:11 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 7
+[29-Aug-2024 23:58:09 UTC] PHP Warning:  Undefined variable $tagline_description in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[29-Aug-2024 23:58:09 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:5
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[29-Aug-2024 23:59:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tagline() in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:5
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[29-Aug-2024 23:59:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tagline() in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:5
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[30-Aug-2024 00:05:30 UTC] PHP Warning:  Uninitialized string offset 1 in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[30-Aug-2024 00:07:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 4
+[30-Aug-2024 00:09:04 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[30-Aug-2024 00:09:35 UTC] PHP Parse error:  syntax error, unexpected token ">" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 4
+[30-Aug-2024 00:09:49 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[30-Aug-2024 00:09:51 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[30-Aug-2024 00:10:10 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 5
+[30-Aug-2024 00:15:48 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting ";" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 7
+[30-Aug-2024 00:17:13 UTC] PHP Warning:  Undefined variable $printPhrases in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 12
+[30-Aug-2024 00:17:13 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:12
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 12
+[30-Aug-2024 00:32:09 UTC] PHP Warning:  Undefined variable $have_posts in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 00:32:09 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:2
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 00:34:31 UTC] PHP Warning:  Undefined variable $have_posts in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 00:34:31 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:2
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 00:34:51 UTC] PHP Warning:  Undefined variable $have_posts in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 00:34:51 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:2
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 00:34:53 UTC] PHP Warning:  Undefined variable $have_posts in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 00:34:53 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php:2
+Stack trace:
+#0 /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rilla/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rilla/Lo...')
+#2 /Users/rilla/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rilla/Lo...')
+#3 {main}
+  thrown in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/index.php on line 2
+[30-Aug-2024 01:18:01 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/functions.php on line 5
+[30-Aug-2024 01:18:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[30-Aug-2024 01:18:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rilla/Local Sites/fictional-university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[30-Aug-2024 17:44:36 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/page.php on line 24
+[30-Aug-2024 17:48:29 UTC] PHP Parse error:  Unclosed '{' on line 5 in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/page.php on line 52
+[30-Aug-2024 17:48:59 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/page.php on line 36
+[30-Aug-2024 17:49:05 UTC] PHP Parse error:  Unclosed '{' on line 5 in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/page.php on line 50
+[09-Sep-2024 20:49:44 UTC] PHP Parse error:  syntax error, unexpected identifier "fa" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/page.php on line 25
+[09-Sep-2024 20:49:48 UTC] PHP Parse error:  syntax error, unexpected identifier "fa" in /Users/rilla/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university/page.php on line 25
